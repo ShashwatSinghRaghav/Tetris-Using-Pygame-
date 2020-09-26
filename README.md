@@ -7,3 +7,6 @@ pygame
 
 # Step to download pygame
 -Open Command Prompt -Type "pip install pygame"
+
+
+# Create scores.txt file where you save the py file. 
